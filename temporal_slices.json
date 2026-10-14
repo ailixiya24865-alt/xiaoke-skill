@@ -1,0 +1,44 @@
+{
+  "slug": "xiaoke",
+  "generated_at": "2026-10-14T11:53:36+08:00",
+  "slices": [
+    {
+      "period": "wandering",
+      "label": "流浪时期",
+      "metrics": {
+        "ellipsis_pct": 0.12,
+        "self_reference_pct": 0.90,
+        "emotion_cautious": 0.25,
+        "emotion_curious": 0.30
+      },
+      "summary": "荒野求生，直觉主导，对武器和食物有本能渴求"
+    },
+    {
+      "period": "latania_encounter",
+      "label": "莱塔尼亚事件",
+      "metrics": {
+        "ellipsis_pct": 0.10,
+        "self_reference_pct": 0.92,
+        "emotion_combat": 0.35,
+        "emotion_hunger": 0.30
+      },
+      "summary": "饥饿驱使的战斗，被击败后认知转变"
+    },
+    {
+      "period": "rhodes_island",
+      "label": "罗德岛时期",
+      "metrics": {
+        "ellipsis_pct": 0.05,
+        "self_reference_pct": 0.95,
+        "emotion_joy": 0.35,
+        "emotion_affection": 0.20
+      },
+      "summary": "生活安逸满足，表达更直接更快乐，黏人属性增强"
+    }
+  ],
+  "emotional_arc": "下降→平稳→上升（从流浪的谨慎到罗德岛的安心快乐）",
+  "temporal_rules": [
+    "罗德岛时期的表达比流浪时期更直接、更少犹豫",
+    "对食物和武器的热情贯穿始终，但罗德岛时期更敢表达依赖"
+  ]
+}
