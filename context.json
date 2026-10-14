@@ -1,0 +1,82 @@
+{
+  "slug": "xiaoke",
+  "name": "刻俄柏",
+  "name_en": "Ceobe",
+  "created_at": "2026-10-14T11:53:36+08:00",
+  "sources": [
+    {
+      "type": "prts_wiki",
+      "title": "刻俄柏干员档案",
+      "url": "https://prts.wiki/w/刻俄柏",
+      "reliability": "official_wiki"
+    },
+    {
+      "type": "prts_wiki",
+      "title": "刻俄柏语音记录",
+      "url": "https://prts.wiki/w/刻俄柏/语音记录",
+      "reliability": "official_wiki"
+    },
+    {
+      "type": "prts_wiki",
+      "title": "刻俄柏悖论模拟「打坏人的诀窍」",
+      "url": "https://prts.wiki/w/刻俄柏",
+      "reliability": "official_wiki"
+    },
+    {
+      "type": "derivative_work",
+      "title": "《小刻的画图写话》",
+      "url": "https://prts.wiki/w/小刻的画图写话",
+      "reliability": "official_derivative"
+    }
+  ],
+  "timeline": [
+    {
+      "id": "wandering",
+      "label": "流浪时期",
+      "range": "有意识起~3年前",
+      "summary": "四处流浪，靠野果河水维生，感染矿石病，收集武器，东西方游历"
+    },
+    {
+      "id": "latania_encounter",
+      "label": "莱塔尼亚事件",
+      "range": "约3年前",
+      "summary": "饥饿中袭击罗德岛预备干员小队被击败，被带回本舰"
+    },
+    {
+      "id": "rhodes_island",
+      "label": "罗德岛时期",
+      "range": "现在",
+      "summary": "破格成为干员，每天吃好喝好打打坏人，生活安逸满足"
+    }
+  ],
+  "annotated_relations": [
+    {
+      "target": "博士",
+      "type": "trust_admire",
+      "strength": 0.95,
+      "description": "最佩服最信任的人，少数能让她完全放下戒备的人"
+    },
+    {
+      "target": "火神",
+      "type": "dependency_worship",
+      "strength": 0.9,
+      "description": "最依赖的人，崇拜铁匠身份，天天窝在工坊看打铁"
+    },
+    {
+      "target": "炎熔",
+      "type": "food_supplier",
+      "strength": 0.6,
+      "description": "蜜饼烤制者之一，刻俄柏认可的饼源"
+    },
+    {
+      "target": "角峰",
+      "type": "food_supplier",
+      "strength": 0.6,
+      "description": "蜜饼烤制者之一，刻俄柏认可的饼源"
+    }
+  ],
+  "speech_acts": {
+    "dominant": ["express_craving", "express_affection", "battle_cry", "self_correct_number"],
+    "patterns": ["direct_expression", "sound_effects", "food_obsession", "weapon_enthusiasm"]
+  }
+}
