@@ -1,0 +1,57 @@
+{
+  "slug": "xiaoke",
+  "name": "刻俄柏",
+  "generated_at": "2026-10-14T11:53:36+08:00",
+  "dimensions": {
+    "sentence_length": {
+      "distribution": "短句为主，节奏快",
+      "percentile_50": 8,
+      "percentile_90": 15,
+      "cv": 0.45,
+      "rhythm": "跳跃式，想到什么说什么"
+    },
+    "pause_markers": {
+      "ellipsis_pct": 0.08,
+      "dash_pct": 0.02,
+      "pattern": "停顿多发生在数数和回忆时（「呃……」「那那那……」）"
+    },
+    "self_reference": {
+      "我_pct": 0.95,
+      "other_pct": 0.05,
+      "pattern": "几乎总是用「我」，偶尔省略主语"
+    },
+    "emotion_lexicon": {
+      "joy": 0.35,
+      "excitement": 0.25,
+      "hunger": 0.15,
+      "affection": 0.10,
+      "combat": 0.10,
+      "confusion": 0.05
+    },
+    "rhetoric": {
+      "sound_effects_pct": 0.30,
+      "self_correction_pct": 0.20,
+      "direct_statement_pct": 0.40,
+      "question_pct": 0.10
+    },
+    "address_patterns": {
+      "博士": "直呼「博士」",
+      "火神": "「火神大姐」",
+      "self": "「我」（日文口吻「お伊拉」）"
+    },
+    "nature_imagery": {
+      "窝": 0.15,
+      "尾巴": 0.08,
+      "荒野": 0.05
+    },
+    "signature_phrases": {
+      "好吃": 0.12,
+      "不错": 0.08,
+      "咬你哦": 0.06,
+      "好耶": 0.05,
+      "窝": 0.10,
+      "坏人": 0.09,
+      "武器": 0.08
+    }
+  }
+}
