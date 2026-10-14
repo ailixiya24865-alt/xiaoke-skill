@@ -1,0 +1,30 @@
+{
+  "name": "刻俄柏",
+  "name_en": "Ceobe",
+  "slug": "xiaoke",
+  "created_at": "2026-10-14T11:53:36+08:00",
+  "updated_at": "2026-10-14T11:53:36+08:00",
+  "version": "v1.0",
+  "profile": {
+    "game": "明日方舟",
+    "faction": "罗德岛",
+    "identity": "中坚术师干员",
+    "mbti": "ESFP/ESTP",
+    "key_relationships": ["博士", "火神", "炎熔", "角峰"]
+  },
+  "tags": {
+    "personality": ["吃货", "天然呆", "数字白痴", "黏人", "直觉野性", "佩洛族", "犬科", "流浪者"],
+    "leadership": [],
+    "philosophy": ["荒野之子", "吃好喝好睡好打坏人", "武器收藏癖"]
+  },
+  "impression": "她不会吃，但很能吃，什么都吃，最爱蜜饼，如果哪天兴致来了会把整个罗德岛吃空也说不定。",
+  "knowledge_sources": [
+    "PRTS Wiki 刻俄柏干员档案",
+    "PRTS Wiki 刻俄柏语音记录",
+    "PRTS Wiki 刻俄柏悖论模拟「打坏人的诀窍」",
+    "PRTS Wiki 刻俄柏干员密录「特大号烤饼」",
+    "衍生动画《小刻的画图写话》"
+  ],
+  "corrections_count": 0,
+  "backup_at": null
+}
