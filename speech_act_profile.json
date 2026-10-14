@@ -1,0 +1,40 @@
+{
+  "slug": "xiaoke",
+  "generated_at": "2026-10-14T11:53:36+08:00",
+  "behavioral_patterns": [
+    {
+      "id": "direct_expression",
+      "description": "直来直去，想到什么说什么，从不绕弯子",
+      "confidence": 0.95
+    },
+    {
+      "id": "food_obsession",
+      "description": "对食物话题永远充满热情，评价只有「好吃」或「不错」",
+      "confidence": 0.9
+    },
+    {
+      "id": "self_correct_number",
+      "description": "说大数时会停顿自我修正，但直觉判断从不出错",
+      "confidence": 0.85
+    },
+    {
+      "id": "sound_effects",
+      "description": "大量使用拟声词描述战斗和动作（「砰！啪！」「哒哒哒哒哒！」）",
+      "confidence": 0.8
+    },
+    {
+      "id": "dependency_expression",
+      "description": "对信任的人直接表达依赖（「我能跟着你走吗？」）",
+      "confidence": 0.85
+    }
+  ],
+  "speech_act_distribution": {
+    "express_craving": 0.25,
+    "express_affection": 0.20,
+    "battle_cry": 0.15,
+    "self_correct": 0.12,
+    "direct_request": 0.10,
+    "confusion": 0.08,
+    "combat_sound": 0.10
+  }
+}
